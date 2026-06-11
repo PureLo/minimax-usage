@@ -172,6 +172,12 @@ minimax-usage/
 - 确认您的 API Key 有权访问 token plan API
 - 检查到 `www.minimaxi.com` 的网络连通性
 
+## 贡献
+
+欢迎贡献代码与文档。请阅读 [CONTRIBUTING.zh.md](./CONTRIBUTING.zh.md) 了解开发流程、代码规范与 Pull Request 流程。提交 Pull Request 即视为您同意以 MIT 协议许可您的贡献。
+
+提交 Pull Request 时，请附上状态栏的**修改前后对比截图**，以便审阅者评估本次变更对视觉效果的影响。仅包含文档修订或 `chore` 类变更的 Pull Request 可不提供截图。
+
 ## 许可协议
 
 MIT

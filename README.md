@@ -175,6 +175,12 @@ minimax-usage/
 - Ensure your API key has access to the token plan API
 - Check network connectivity to `www.minimaxi.com`
 
+## Contributing
+
+Contributions are welcome. Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for the development workflow, coding standards, and pull request process. By submitting a Pull Request, you agree to license your contribution under the MIT License.
+
+When opening a Pull Request, please attach **before/after screenshots** of the status bar so reviewers can evaluate the visual impact of your change. Pull Requests limited to documentation updates or `chore`-style changes are exempt from the screenshot requirement.
+
 ## License
 
 MIT
